@@ -72,7 +72,7 @@ Migration is a critical process that occurs once the bonding curve has completed
    ```
 2. Install dependencies:
    ```
-    - anchor : v0.29.0
+    - anchor : v0.31.0
     - solana : v1.18.18
     - rustc : v1.75.0 
    ```
@@ -104,7 +104,9 @@ Migration is a critical process that occurs once the bonding curve has completed
 
 ## 🤝 Proof of work & Collaboration
 
-CA: [`9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw`](https://solscan.io/account/9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw?cluster=devnet)
+Mainnet CA: [`9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw`](https://solscan.io/account/9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw)
+
+Devnet CA: [`9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw`](https://solscan.io/account/9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw?cluster=devnet)
 
 Create Bonding Curve Tx: [`32JZPjV9JAakkvJyqQMpFhW8ziNqZV3QN2jbsY1W6GRsuDtq69HPtXsQE1RpAyUE2rw1DW5usozh4oueWqb1aM2S`](https://solscan.io/tx/32JZPjV9JAakkvJyqQMpFhW8ziNqZV3QN2jbsY1W6GRsuDtq69HPtXsQE1RpAyUE2rw1DW5usozh4oueWqb1aM2S?cluster=devnet)
 
